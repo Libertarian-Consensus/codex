@@ -3,7 +3,9 @@
 Artigo 1: Fundamentos do Direito Natural e Direito à Vida
 
 1.1. Fundamentos do Direito Natural
+
 1.1.1. Reconhecendo que os direitos humanos são inerentes à natureza humana, baseados em princípios universais e objetivos do direito natural.
+
 1.1.2. Os direitos naturais precedem e estão acima das instituições governamentais, sendo inalienáveis, invioláveis, atemporais e independente da localização espacial.
 
 1.2. Direito à Vida
