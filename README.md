@@ -4,22 +4,28 @@
 
 ### 1.1. Fundamentos do Direito Natural
 
-1.1.1. Reconhecendo que os direitos humanos são inerentes à natureza humana, baseados em princípios universais e objetivos do direito natural.
+    1.1.1. Reconhecendo que os direitos humanos são inerentes à natureza humana, baseados em princípios universais e objetivos do direito natural.
 
-1.1.2. Os direitos naturais precedem e estão acima das instituições governamentais, sendo inalienáveis, invioláveis, atemporais e independente da localização espacial.
+    1.1.2. Os direitos naturais precedem e estão acima das instituições governamentais, sendo inalienáveis, invioláveis, atemporais e independente da localização espacial.
 
-1.2. Direito à Vida
-1.2.1. Todo indivíduo tem o direito fundamental à sua própria vida e à preservação dela.
-1.2.2. O direito à vida inclui o direito a autoproteção contra a agressão física e qualquer forma de violência injustificada.
-1.2.3. Nenhum indivíduo tem o direito de iniciar ou ameaçar a violência física contra outro indivíduo, exceto em legítima defesa de si mesmo ou de outrem.
+###1.2. Direito à Vida
 
-Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
+    1.2.1. Todo indivíduo tem o direito fundamental à sua própria vida e à preservação dela.
 
-2.1. Direito Natural e Autodisposição
-2.1.1. Todo indivíduo possui o direito natural à autodisposição, ou seja, o controle e a soberania sobre seu próprio corpo, mente e vida.
-2.1.2. O direito à autodisposição inclui a liberdade de tomar decisões sobre a própria saúde, estilo de vida, associações pessoais, crenças e ações, desde que não viole os direitos de terceiros.
+    1.2.2. O direito à vida inclui o direito a autoproteção contra a agressão física e qualquer forma de violência injustificada.
 
-2.2. Direito à Propriedade
+    1.2.3. Nenhum indivíduo tem o direito de iniciar ou ameaçar a violência física contra outro indivíduo, exceto em legítima defesa de si mesmo ou de outrem.
+
+##Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
+
+###2.1. Direito Natural e Autodisposição
+
+    2.1.1. Todo indivíduo possui o direito natural à autodisposição, ou seja, o controle e a soberania sobre seu próprio corpo, mente e vida.
+
+    2.1.2. O direito à autodisposição inclui a liberdade de tomar decisões sobre a própria saúde, estilo de vida, associações pessoais, crenças e ações, desde que não viole os direitos de terceiros.
+
+###2.2. Direito à Propriedade
+
 2.2.1. Todo indivíduo tem o direito à propriedade privada de bens de capital e de consumo, adquiridos de forma legítima.
 2.2.2. O direito à propriedade inclui o direito de adquirir, possuir, usar, desfrutar, transferir e dispor dos bens adquiridos de maneira voluntária, desde que não viole os direitos de terceiros.
 2.2.3. O direito à propriedade abrange tanto os bens tangíveis, como imóveis e objetos físicos, quanto os bens intangíveis, como ideias, invenções e propriedade intelectual.
