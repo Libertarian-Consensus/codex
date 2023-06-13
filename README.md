@@ -8,7 +8,7 @@
 
     1.1.2. Os direitos naturais precedem e estão acima das instituições governamentais, sendo inalienáveis, invioláveis, atemporais e independente da localização espacial.
 
-###1.2. Direito à Vida
+### 1.2. Direito à Vida
 
     1.2.1. Todo indivíduo tem o direito fundamental à sua própria vida e à preservação dela.
 
@@ -16,9 +16,9 @@
 
     1.2.3. Nenhum indivíduo tem o direito de iniciar ou ameaçar a violência física contra outro indivíduo, exceto em legítima defesa de si mesmo ou de outrem.
 
-##Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
+## Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
 
-###2.1. Direito Natural e Autodisposição
+### 2.1. Direito Natural e Autodisposição
 
     2.1.1. Todo indivíduo possui o direito natural à autodisposição, ou seja, o controle e a soberania sobre seu próprio corpo, mente e vida.
 
