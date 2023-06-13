@@ -24,20 +24,27 @@
 
     2.1.2. O direito à autodisposição inclui a liberdade de tomar decisões sobre a própria saúde, estilo de vida, associações pessoais, crenças e ações, desde que não viole os direitos de terceiros.
 
-###2.2. Direito à Propriedade
+### 2.2. Direito à Propriedade
 
-2.2.1. Todo indivíduo tem o direito à propriedade privada de bens de capital e de consumo, adquiridos de forma legítima.
-2.2.2. O direito à propriedade inclui o direito de adquirir, possuir, usar, desfrutar, transferir e dispor dos bens adquiridos de maneira voluntária, desde que não viole os direitos de terceiros.
-2.2.3. O direito à propriedade abrange tanto os bens tangíveis, como imóveis e objetos físicos, quanto os bens intangíveis, como ideias, invenções e propriedade intelectual.
+    2.2.1. Todo indivíduo tem o direito à propriedade privada de bens de capital e de consumo, adquiridos de forma legítima.
 
-2.3. Direito à Propriedade Espacial da Terra
-2.3.1. O direito à propriedade espacial da terra é baseado no princípio do homestead, que reconhece que um indivíduo pode adquirir propriedade sobre recursos naturais anteriormente não apropriados através do seu primeiro uso ou ocupação legítima.
-2.3.2. A aquisição de propriedade espacial da terra requer trabalho e transformação legítima, demonstrando assim o uso produtivo e o estabelecimento de um vínculo pessoal com o recurso.
-2.3.3. O direito à propriedade espacial da terra inclui o direito de defesa e proteção contra qualquer tentativa de violação ou usurpação ilegítima da propriedade legítima adquirida.
+    2.2.2. O direito à propriedade inclui o direito de adquirir, possuir, usar, desfrutar, transferir e dispor dos bens adquiridos de maneira voluntária, desde que não viole os direitos de terceiros.
 
-2.4. Liberdade do Comércio da Terra e de Bens
-2.4.1. O direito à propriedade permite aos indivíduos a liberdade de comércio e transferência voluntária de seus bens, incluindo terra, bens de capital e de consumo, desde que não violem os direitos de terceiros.
-2.4.2. A liberdade do comércio de bens é um elemento essencial para o desenvolvimento econômico e social, permitindo a cooperação e a troca pacífica entre os indivíduos, promovendo a eficiência e o progresso da sociedade.
+    2.2.3. O direito à propriedade abrange tanto os bens tangíveis, como imóveis e objetos físicos, quanto os bens intangíveis, como ideias, invenções e propriedade intelectual.
+
+### 2.3. Direito à Propriedade Espacial da Terra
+    
+    2.3.1. O direito à propriedade espacial da terra é baseado no princípio do homestead, que reconhece que um indivíduo pode adquirir propriedade sobre recursos naturais anteriormente não apropriados através do seu primeiro uso ou ocupação legítima.
+    
+    2.3.2. A aquisição de propriedade espacial da terra requer trabalho e transformação legítima, demonstrando assim o uso produtivo e o estabelecimento de um vínculo pessoal com o recurso.
+    
+    2.3.3. O direito à propriedade espacial da terra inclui o direito de defesa e proteção contra qualquer tentativa de violação ou usurpação ilegítima da propriedade legítima adquirida.
+
+## 2.4. Liberdade do Comércio da Terra e de Bens
+
+    2.4.1. O direito à propriedade permite aos indivíduos a liberdade de comércio e transferência voluntária de seus bens, incluindo terra, bens de capital e de consumo, desde que não violem os direitos de terceiros.
+
+    2.4.2. A liberdade do comércio de bens é um elemento essencial para o desenvolvimento econômico e social, permitindo a cooperação e a troca pacífica entre os indivíduos, promovendo a eficiência e o progresso da sociedade.
 
 
 Artigo 3: Fundamentos do Direito Natural, Direito à Liberdade e Princípio da Não Agressão
