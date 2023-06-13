@@ -1,8 +1,8 @@
 # Código do Consenso Libertário 
 
-Artigo 1: Fundamentos do Direito Natural e Direito à Vida
+## Artigo 1: Fundamentos do Direito Natural e Direito à Vida
 
-1.1. Fundamentos do Direito Natural
+### 1.1. Fundamentos do Direito Natural
 
 1.1.1. Reconhecendo que os direitos humanos são inerentes à natureza humana, baseados em princípios universais e objetivos do direito natural.
 
