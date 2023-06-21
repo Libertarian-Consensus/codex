@@ -16,6 +16,8 @@
 
     1.2.3. Nenhum indivíduo tem o direito de iniciar ou ameaçar a violência física contra outro indivíduo, exceto em legítima defesa de si mesmo ou de outrem.
 
+    1.2.4. Nenhum indivíduo é obrigado a defender a vida de outro, exceto quando voluntariamente contratado.
+
 ## Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
 
 ### 2.1. Direito Natural e Autodisposição
@@ -67,7 +69,7 @@
     
     3.3.2. A liberdade individual não deve ser arbitrariamente restringida por governos ou outros indivíduos, exceto quando necessário para proteger os direitos de terceiros.
 
-    3.3.3. Restrições à liberdade devem ser justificadas, proporcionais e baseadas em princípios de respeito aos direitos individuais e ao bem comum.
+    3.3.3. Restrições à liberdade devem ser justificadas, proporcionais e baseadas em princípios de respeito aos direitos individuais e sempre com a restituição a vítima.
 
 ## Artigo 4: Direito de Propriedade e Liberdade de Expressão
 
