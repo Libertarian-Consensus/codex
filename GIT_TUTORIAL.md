@@ -57,7 +57,7 @@ Agora você pode colaborar com o projeto Consenso Libertário, mesmo sem conheci
 Contribua para construirmos juntos uma sociedade livre e baseada em princípios libertários!
 
 ---
-
+```
 **Como contribuir**
 
 - Abra uma issue caso queira discutir uma ideia, propor uma melhoria ou relatar um problema.
