@@ -16,7 +16,7 @@
 
     1.2.3. Nenhum indivíduo tem o direito de iniciar ou ameaçar a violência física contra outro indivíduo, exceto em legítima defesa de si mesmo ou de outrem.
 
-    1.2.4. Nenhum indivíduo é obrigado a defender a vida de outro, exceto quando voluntariamente contratado.
+    1.2.4. Nenhum indivíduo é obrigado a defender a vida de outro, exceto quando voluntariamente acordado.
 
 ## Artigo 2: Direito Natural, Direito à Autodisposição e Direito à Propriedade
 
