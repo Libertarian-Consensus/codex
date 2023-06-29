@@ -24,8 +24,10 @@ O código de consenso libertário é voltado para aqueles que compartilham dos v
 Entendemos que o Estado possui uma tendência inerente à concentração de poder e à violação dos direitos individuais.
 Rejeitamos todas as formas de concentração de poder de forma coercitiva.
 Rejeitamos a Democracia e o Estado Democrático de Direito, assim como rejeitamos toda forma socialista que visa a realocação dos recursos.
+Rejeitamos a idéia de revolução como meio para atingir objetivos. Qualquer golpe que utize de coerção e violência se equipara ao Estado e seus criminosos.
 
-Nossa visão é de uma sociedade livre do Estado, baseada no livre comércio, em que as interações humanas sejam voluntárias e baseadas em princípios éticos. Acreditamos que a cooperação voluntária e a liberdade individual são os pilares para uma sociedade próspera e justa. 
+Nossa visão é de uma sociedade livre do Estado, baseada no livre comércio, em que as interações humanas sejam voluntárias e baseadas em princípios éticos. 
+Acreditamos que a cooperação voluntária e a liberdade individual são os pilares para uma sociedade próspera e justa.
 🚫🏛️✊  
 
 ## Contribuição
