@@ -1,76 +1,75 @@
-# Tutorial: Como usar o VS Code para edição de textos no GitHub
+# Tutorial: How to Use VS Code for Text Editing on GitHub
 
-O GitHub é uma plataforma amplamente utilizada para colaboração em projetos de desenvolvimento de software. No entanto, também pode ser útil para edição e colaboração em documentos de texto. Neste tutorial, vamos mostrar como usar o VS Code, um editor de texto popular, em conjunto com o GitHub para editar textos, mesmo que você não tenha conhecimento em programação.
+GitHub is a widely used platform for collaboration on software development projects. However, it can also be useful for editing and collaborating on text documents. In this tutorial, we will show you how to use VS Code, a popular text editor, in conjunction with GitHub to edit texts, even if you have no programming knowledge.
 
-## Passo 1: Instalando o VS Code
+## Step 1: Installing VS Code
 
-1. Acesse o site do VS Code em https://code.visualstudio.com e faça o download e a instalação do editor para o seu sistema operacional.
-2. Após a instalação, abra o VS Code.
+1. Visit the VS Code website at https://code.visualstudio.com and download and install the editor for your operating system.
+2. Once the installation is complete, open VS Code.
 
-## Passo 2: Criando uma conta no GitHub
+## Step 2: Creating a GitHub Account
 
-1. Acesse o site do GitHub em https://github.com e crie uma conta, caso ainda não tenha uma. Basta preencher o formulário de registro com suas informações pessoais.
-2. Após criar sua conta, faça login no GitHub.
+1. Go to the GitHub website at https://github.com and create an account if you don't have one already. Simply fill out the registration form with your personal information.
+2. After creating your account, log in to GitHub.
 
-## Passo 3: Clonando o repositório do Consenso Libertário
+## Step 3: Cloning the Libertarian Consensus Repository
 
-1. Acesse o repositório do Consenso Libertário em https://github.com/seu-usuario/consenso-libertario (substitua "seu-usuario" pelo seu nome de usuário do GitHub).
-2. Clique no botão "Code" e copie o link do repositório.
+1. Access the Libertarian Consensus repository at https://github.com/your-username/libertarian-consensus (replace "your-username" with your GitHub username).
+2. Click on the "Code" button and copy the repository link.
 
-## Passo 4: Abrindo o repositório no VS Code
+## Step 4: Opening the Repository in VS Code
 
-1. Abra o VS Code e clique em "File" no menu superior.
-2. Selecione "Open Repository" (ou "Open Folder", dependendo da versão do VS Code).
-3. Cole o link do repositório que você copiou anteriormente e pressione Enter.
-4. O VS Code irá baixar o repositório para o seu computador.
+1. Open VS Code and click on "File" in the top menu.
+2. Select "Open Repository" (or "Open Folder," depending on the version of VS Code).
+3. Paste the repository link you copied earlier and press Enter.
+4. VS Code will download the repository to your computer.
 
-## Passo 5: Editando o arquivo no VS Code
+## Step 5: Editing the File in VS Code
 
-1. Na barra lateral esquerda do VS Code, navegue até a pasta do repositório clonado.
-2. Clique no arquivo que deseja editar, como por exemplo, "README.md".
-3. O arquivo será aberto no editor do VS Code.
-4. Faça as alterações necessárias no texto, como adicionar informações, corrigir erros ou melhorar a formatação.
+1. In the left sidebar of VS Code, navigate to the cloned repository folder.
+2. Click on the file you want to edit, such as "README.md."
+3. The file will open in the VS Code editor.
+4. Make the necessary changes to the text, such as adding information, correcting errors, or improving formatting.
 
-## Passo 6: Descrevendo suas alterações
+## Step 6: Describing Your Changes
 
-1. Após fazer as alterações, clique em "Source Control" na barra lateral esquerda do VS Code (ícone de ramo de árvore).
-2. Serão exibidas as modificações feitas no arquivo.
-3. Digite uma mensagem descritiva sobre suas alterações na caixa de texto "Message" na parte superior da janela.
-4. Por exemplo, você pode escrever: "Adicionando informações sobre o princípio da liberdade".
+1. After making the changes, click on "Source Control" in the left sidebar of VS Code (tree branch icon).
+2. The modifications made to the file will be displayed.
+3. Enter a descriptive message about your changes in the "Message" text box at the top of the window.
+4. For example, you can write: "Adding information about the principle of freedom."
 
-## Passo 7: Salvando e enviando as alterações
+## Step 7: Saving and Pushing the Changes
 
-1. Clique no botão de marca de seleção (✓) acima da caixa de mensagem para confirmar as alterações.
-2. Em seguida, clique no botão "..." ao lado do botão de marca de seleção e selecione "Push" para enviar as
-alterações para o repositório remoto no GitHub.
+1. Click on the checkmark button (✓) above the message box to confirm the changes.
+2. Then click on the "..." button next to the checkmark button and select "Push" to send the changes to the remote repository on GitHub.
 
-## Passo 8: Criando um Pull Request
+## Step 8: Creating a Pull Request
 
-1. Após enviar as alterações, acesse o repositório no GitHub através do link: https://github.com/seu-usuario/consenso-libertario (substitua "seu-usuario" pelo seu nome de usuário do GitHub).
-2. Na página do repositório, clique na aba "Pull Requests".
-3. Em seguida, clique no botão "New Pull Request".
-4. Preencha o título e a descrição para o seu Pull Request, descrevendo as alterações que foram feitas.
-5. Clique em "Create Pull Request" para finalizar a criação do Pull Request.
+1. After pushing the changes, access the repository on GitHub via the link: https://github.com/your-username/libertarian-consensus (replace "your-username" with your GitHub username).
+2. On the repository page, click on the "Pull Requests" tab.
+3. Then click on the "New Pull Request" button.
+4. Fill in the title and description for your Pull Request, describing the changes that were made.
+5. Click "Create Pull Request" to finalize the Pull Request creation.
 
-Agora você pode colaborar com o projeto Consenso Libertário, mesmo sem conhecimento em programação, através do VS Code e do GitHub. Lembre-se de abrir uma issue caso tenha dúvidas ou queira discutir as alterações com outros colaboradores.
+Now you can collaborate with the Libertarian Consensus project, even without programming knowledge, using VS Code and GitHub. Remember to open an issue if you have any questions or want to discuss the changes with other contributors.
 
-Contribua para construirmos juntos uma sociedade livre e baseada em princípios libertários!
+Contribute to building a free society based on libertarian principles!
 
 ---
 ```
-**Como contribuir**
+**How to Contribute**
 
-- Abra uma issue caso queira discutir uma ideia, propor uma melhoria ou relatar um problema.
-- Para fazer alterações, siga os passos descritos neste tutorial e envie um Pull Request com suas contribuições.
+- Open an issue if you want to discuss an idea, propose an improvement, or report a problem.
+- To make changes, follow the steps described in this tutorial and submit a Pull Request with your contributions.
 
-Agradecemos sua participação e apoio!
+We appreciate your participation and support!
 
 ```
 
-Espero que esse tutorial seja útil para ajudar pessoas de diversas áreas a contribuírem para o projeto Consenso Libertário usando o VS Code e o GitHub. Estamos ansiosos para receber suas contribuições e juntos construirmos uma sociedade mais livre e baseada em princípios libertários!
+We hope this tutorial is helpful in enabling people from various fields to contribute to the Libertarian Consensus project using VS Code and GitHub. We look forward to receiving your contributions and together building a freer society based on libertarian principles!
 
-Contribua para o projeto, abrindo uma issue se tiver dúvidas ou sugestões, ou enviando um Pull Request com suas alterações. Sua participação é valiosa para nós!
+Contribute to the project by opening an issue if you have questions or suggestions, or by submitting a Pull Request with your changes. Your participation is valuable to us!
 
-🔗 [Veja o arquivo CONTRIBUTING para mais detalhes sobre como contribuir](CONTRIBUTING.md)
+🔗 [See the CONTRIBUTING file for more details on how to contribute](CONTRIBUTING.md)
 
-Seja bem-vindo(a) à nossa comunidade!
+Welcome to our community!
