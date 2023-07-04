@@ -1,43 +1,35 @@
-# Código de Consenso Libertário
+# Code of Libertarian Consensus
 
-Este repositório contém um código de consenso libertário, uma estrutura ética baseada nos princípios do Libertarianismo e na ética da liberdade de Murray Rothbard. Nosso propósito é estabelecer uma base de princípios que promovam a liberdade individual, o respeito à propriedade privada e o princípio da não agressão. 🗽💼🤝
+This repository contains a code of libertarian consensus, an ethical framework based on the principles of Libertarianism and Murray Rothbard's ethics of liberty. Our purpose is to establish a set of principles that promote individual freedom, respect for private property, and the principle of non-aggression. 🗽💼🤝
 
-## Propósito
+## Purpose
 
-O código de consenso libertário tem como objetivo principal garantir a liberdade individual e a justiça, promovendo uma sociedade baseada em princípios éticos fundamentais. Buscamos criar um ambiente em que cada indivíduo possa exercer sua autonomia e perseguir seus próprios objetivos, permitindo que eles possuam um código de ética bem embasado. A ideia é possibilitar um sistema de justiça libertário. 
-🌍🔒🚀
+The code of libertarian consensus aims to ensure individual freedom and justice by promoting a society based on fundamental ethical principles. We seek to create an environment where each individual can exercise autonomy and pursue their own objectives while adhering to a well-founded code of ethics. The idea is to enable a libertarian system of justice. 🌍🔒🚀
 
-## Princípios Fundamentais
+## Fundamental Principles
 
-Nossos princípios se resumem em um parágrafo:
+Our principles can be summarized in one paragraph:
 
-"Defendemos os princípios fundamentais do Libertarianismo: liberdade individual, propriedade privada, não agressão e autodeterminação. Acreditamos na inalienabilidade do direito à autodeterminação e valorizamos a privacidade como parte integral da liberdade individual." 
-🙌📜🔐
+"We uphold the fundamental principles of Libertarianism: individual freedom, private property, non-aggression, and self-determination. We believe in the inalienability of the right to self-determination and value privacy as an integral part of individual freedom." 🙌📜🔐
 
-## Público-alvo
+## Target Audience
 
-O código de consenso libertário é voltado para aqueles que compartilham dos valores libertários e desejam contribuir para a construção de uma sociedade baseada na liberdade individual e no respeito aos direitos individuais. É um chamado para pessoas comprometidas com a justiça, a não agressão e a busca da felicidade individual, dentro de uma ordem social voluntária. 
-👥🤝🌱
+The code of libertarian consensus is intended for those who share libertarian values and wish to contribute to the construction of a society based on individual freedom and respect for individual rights. It is a call to individuals committed to justice, non-aggression, and the pursuit of individual happiness within a voluntary social order. 👥🤝🌱
 
-## Visão em relação ao Estado
+## View on the State
 
-Entendemos que o Estado possui uma tendência inerente à concentração de poder e à violação dos direitos individuais.
-Rejeitamos todas as formas de concentração de poder de forma coercitiva.
-Rejeitamos a Democracia e o Estado Democrático de Direito, assim como rejeitamos toda forma socialista que visa a realocação dos recursos.
-Rejeitamos a idéia de revolução como meio para atingir objetivos. Qualquer golpe que utize de coerção e violência se equipara ao Estado e seus criminosos.
+We understand that the State has an inherent tendency towards power concentration and violation of individual rights. We reject all forms of coercive power concentration. We reject Democracy and the Democratic Rule of Law, as well as any form of socialism that aims at resource reallocation. We reject the idea of revolution as a means to achieve objectives. Any coup that employs coercion and violence is equivalent to the State and its criminals.
 
-Nossa visão é de uma sociedade livre do Estado, baseada no livre comércio, em que as interações humanas sejam voluntárias e baseadas em princípios éticos. 
-Acreditamos que a cooperação voluntária e a liberdade individual são os pilares para uma sociedade próspera e justa.
-🚫🏛️✊  
+Our vision is of a society free from the State, based on free trade, where human interactions are voluntary and guided by ethical principles. We believe that voluntary cooperation and individual freedom are the pillars for a prosperous and just society. 🚫🏛️✊
 
-## Contribuição
+## Contribution
 
-Se você está interessado em contribuir para o desenvolvimento do Código de Consenso Libertário, siga as etapas abaixo:
+If you are interested in contributing to the development of the Code of Libertarian Consensus, please follow the steps below:
 
-1. Leia o [arquivo CONTRIBUTING](link-para-o-arquivo-CONTRIBUTING.md) para entender as diretrizes de contribuição.
-2. Faça um fork deste repositório e crie uma branch para suas contribuições.
-3. Faça as alterações desejadas, seguindo as diretrizes e princípios estabelecidos.
-4. Abra um pull request descrevendo suas alterações e explicando os motivos por trás delas.
-5. Aguarde a revisão e o feedback da comunidade. Estamos abertos a discussões construtivas. 🤝🚀📝
+1. Read the [CONTRIBUTING file](link-to-CONTRIBUTING.md) to understand the contribution guidelines.
+2. Fork this repository and create a branch for your contributions.
+3. Make desired changes, following the established guidelines and principles.
+4. Open a pull request describing your changes and explaining the reasons behind them.
+5. Await review and feedback from the community. We welcome constructive discussions. 🤝🚀📝
 
-Agradecemos antecipadamente por sua contribuição! 🙏✨
+We appreciate your contribution in advance! 🙏✨
